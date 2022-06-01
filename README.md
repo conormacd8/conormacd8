@@ -18,9 +18,9 @@
 
 ### Contact me 📝
 
-[<img align="left" alt="cjmac.dev site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="Conor MacDonald | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="Conor MacDonald | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="left" alt="cjmac.dev site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />]
+[<img align="left" alt="Conor MacDonald | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>]
+[<img align="left" alt="Conor MacDonald | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />]
 
 <br />
 
@@ -38,7 +38,7 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Tailwind]
+![Tailwind](http://img.shields.io/badge/-Tailwind-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 
 <br/>
