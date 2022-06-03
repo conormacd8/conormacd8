@@ -9,14 +9,6 @@
 - 💪🏼 Future Goals: I hope to build the required skills needed to work as a front end developer professionally.
 - ⚡ Fun fact: I love to learn new things all the time. Some of those things include learning guitar, spanish, a new keyboard layout and of course **front end  developement**.
 
----
-
-
-### Contact me 📝
-
-[<img align="left" alt="cjmac.dev site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />]
-[<img align="left" alt="Conor MacDonald | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>]
-[<a href="https://www.linkedin.com/in/conormacd/"><img align="left" alt="Conor MacDonald | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" /></a>]
 
 <br />
 
