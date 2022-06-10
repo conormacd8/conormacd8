@@ -6,7 +6,7 @@
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React and tailwind.
 - 📚 My current focus is front end web development however am open to learning backend if the opportunity to do so arises.
-- 💪🏼 Future Goals: I hope to build the required skills needed to work as a front end developer professionally.
+- 💪🏼 Future Goals: I intend to build the required skills needed to work as a front end developer professionally.
 - ⚡ Fun fact: I love to learn new things all the time. Some of those things include learning guitar, spanish, a new keyboard layout and of course **front end  developement**.
 
 
@@ -14,7 +14,7 @@
 
 ---
 <br />
-### Languages and Tools 🛠 
+## Languages and Tools 🛠 
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
