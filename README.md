@@ -4,7 +4,7 @@
 
 ## I'm a self taught Front End Developer 
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React and tailwind.
+- 👨‍💻 I’m currently working on web development technologies such as JavaScript and React.
 - 📚 My current focus is front end web development however am open to learning backend if the opportunity to do so arises.
 - 💪🏼 Future Goals: I intend to build the required skills needed to work as a front end developer professionally.
 - ⚡ Fun fact: I love to learn new things all the time. Some of those things include learning guitar, spanish, a new keyboard layout and of course **front end  developement**.
@@ -21,7 +21,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
