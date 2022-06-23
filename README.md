@@ -18,7 +18,6 @@
 ## Languages and tools 🛠
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
@@ -26,7 +25,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+
 
 
 <br/>
